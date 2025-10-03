@@ -1,0 +1,37 @@
+{
+    "beam_diameter": "4.0",
+    "cleanup_duration": 180.0,
+    "commit": "0250cc51c990de95c5dfc7d7098b40ddb052bf87",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 90.0,
+    "extract_units": "watts",
+    "extract_value": 1.1,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "18hole",
+    "load_name": "D0241",
+    "pattern": "18Trough_medium.lp",
+    "pipette_counts": [],
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 14,
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 5.0,
+    "ramp_rate": 0.0,
+    "snapshots": [],
+    "timestamp": "2025-10-03T15:28:30.291470",
+    "tray": "18hole",
+    "videos": [
+        "/Users/argonlab3/Pychron/data/videos/D0241/72475-02B-001.avi"
+    ],
+    "weight": 36.62
+}
